@@ -4,7 +4,7 @@ html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown, .post-layout #markdo
 }
 
 ::selection {    
-    background: #3562ff;
+    background: #111;
 }
 
 /* header */
@@ -13,7 +13,7 @@ html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown, .post-layout #markdo
 	box-shadow: none;
 	padding: 3em 8vw;
 	background-color: white;
-	color: #000;
+	color: #fff;
 }
 
 .intro{
@@ -31,8 +31,13 @@ html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown, .post-layout #markdo
 	font-size: 28px;
 }
 
-.header__title:hover{
+.header__title{
 	color: #3562ff;
+	font-size: 28px;
+}
+
+.header__title:hover{
+	color: #fff;
 }
 
 .header__list>*{
