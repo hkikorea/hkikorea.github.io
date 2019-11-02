@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: eungggggg@gmail.com
+email: hkikoryan@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
@@ -8,14 +8,14 @@ name: Eunji Jeong
 title: Portfolio
 description: >
   Eunji Jeong - a Product Designer's Portfolio
-url: https://eungggggg.github.io
+url: https://hkikorea.github.io
 twitter_username: eungggggg
 default_img: /assets/images/seo.jpg
 social:
   # - name: twitter
   #   url: https://twitter.com/eungggggg
   - name: instagram
-    url: https://www.instagram.com/eungggggg/
+    url: https://www.instagram.com/han_hot/
   - name: dribbble
     url: https://dribbble.com/eungggg
   - name: behance
@@ -23,7 +23,7 @@ social:
   - name: linkedin
     url: https://www.linkedin.com/in/eungggggg/
   - name: github
-    url: https://github.com/eungggggg
+    url: https://github.com/hkikorea
   # - name: codepen
   #   url: https://codepen.io/eungggggg/
 
@@ -40,7 +40,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Eunji Jeong
+  - name: Gukin Han
     # bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
     # url: http://thomasvaeth.com
 
