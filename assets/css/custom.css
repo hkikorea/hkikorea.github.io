@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,700,900&display=swap');
 html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown, .post-layout #markdown{
-	font-family: "Source Sans Pro","APPLE SD Gothic Neo",HelveticaNeue,Helvetica,"NanumGothic","맑은 고딕","Malgun Gothic",arial,sans-serif,"Source Sans Pro",sans-serif !important;
+	font-family: "roboto","Source Sans Pro","APPLE SD Gothic Neo",HelveticaNeue,Helvetica,"NanumGothic","맑은 고딕","Malgun Gothic",arial,sans-serif,"Source Sans Pro",sans-serif !important;
 	line-height: 1.6;
 }
 
@@ -9,7 +10,7 @@ html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown, .post-layout #markdo
 
 h2 {
   margin-top: 3em;
-  color: grey;
+  color: gray;
 }
 h2:first-child {
   margin-top: 0;
@@ -120,6 +121,16 @@ main{
 .grid-xlarge, #markdown p img{
 	width: 100% !important;
 }
+.posts__img, .related__img {
+    margin-bottom: 1em;
+    background-color: black;
+}
+
+.posts__link:hover .posts__img, .posts__link:hover .related__img, .related__link:hover .posts__img, .related__link:hover .related__img {
+    -webkit-transform: translate3d(0,-10px,0);
+    transform: translate3d(0,-10px,0);
+}
+
 
 @media (min-width: 768px){
 	.grid-xlarge{
@@ -131,14 +142,16 @@ main{
 	display: block;
 }
 
+
 /* footer */
 .footer{
 	border: none;
 	box-shadow: none;
-	padding: 0 8vw 4em 8vw;
+	padding: 2em 1vw 4em 8vw;
 	background-color: black;
 	color: #f5f5f5;
 }
+
 .footer__container{
 	margin: 0;
 }
@@ -151,7 +164,11 @@ main{
 .footer__container ul a{
 	color: #ffffff;
 	text-decoration: none;
-	font-size: 1.5em;
+	font-size: 1.1em;
+
+}
+.footer__container ul a:hover{
+	color: #efb510;
 }
 
 .copyright{
