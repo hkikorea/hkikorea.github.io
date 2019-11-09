@@ -4,28 +4,28 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Eunji Jeong
+name: Gukin Han
 title: Portfolio
 description: >
-  Eunji Jeong - a Product Designer's Portfolio
+  Gukin Han - a Brand marketing Designer's Portfolio
 url: https://hkikorea.github.io
-twitter_username: eungggggg
-default_img: /assets/images/seo.jpg
+twitter_username: hkikorea
+default_img: /assets/images/bi.jpg
 social:
   # - name: twitter
-  #   url: https://twitter.com/eungggggg
+  #   url: https://twitter.com/hkikorea
   - name: instagram
     url: https://www.instagram.com/han_hot/
   - name: dribbble
-    url: https://dribbble.com/eungggg
+    url: https://dribbble.com/hkikorea
   - name: behance
-    url: https://www.behance.net/eungggggg
+    url: https://www.behance.net/hkikorea
   - name: linkedin
-    url: https://www.linkedin.com/in/eungggggg/
+    url: https://www.linkedin.com/in/hkikorea/
   - name: github
     url: https://github.com/hkikorea
   # - name: codepen
-  #   url: https://codepen.io/eungggggg/
+  #   url: https://codepen.io/hkikorea/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
