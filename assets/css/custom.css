@@ -100,8 +100,8 @@ main{
 }
 
 .footer__container ul a{
-	color: #000;
-	text-decoration: underline;
+	color: #ffffff;
+	text-decoration: none;
 	font-size: 1.5em;
 }
 
